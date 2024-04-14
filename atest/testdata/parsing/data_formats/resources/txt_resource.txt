@@ -1,0 +1,11 @@
+*Settings*  Value  Value  Value  Value
+
+Resource   txt_resource2.txt      
+
+
+*Variables*  Value  Value  Value  Value
+${txt_resource_var}  TXT Resource Variable      
+
+
+*Keywords  Action  Argument  Argument  Argument
+Keyword from TXT resource  No operation      

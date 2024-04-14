@@ -1,0 +1,11 @@
+*Settings*	Value	Value	Value	Value
+
+Resource 	tsv_resource2.tsv			
+
+
+*Variables*	Value	Value	Value	Value
+${tsv_resource_var}	TSV Resource Variable			
+
+
+*Keywords	Action	Argument	Argument	Argument
+Keyword from TSV resource	No operation			
